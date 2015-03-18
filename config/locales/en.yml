@@ -1,0 +1,4 @@
+en:
+  project_custom_style_label: Custom Style
+  project_custom_style_page: Wiki page to use
+  project_custom_style_page_hint: Wiki page which will be used for per-project custom styling
