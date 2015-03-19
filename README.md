@@ -1,4 +1,18 @@
+[github]: https://github.com/neopoly/redmine-project_custom_style
+[doc]: http://rubydoc.info/github/neopoly/redmine-project_custom_style/master/file/README.md
+[gem]: https://rubygems.org/gems/redmine-project_custom_style
+[gem-badge]: https://img.shields.io/gem/v/redmine-project_custom_style.svg
+[inchpages]: https://inch-ci.org/github/neopoly/redmine-project_custom_style
+[inchpages-badge]: https://inch-ci.org/github/neopoly/redmine-project_custom_style.svg?branch=master&style=flat
+
 # redmine-project_custom_style
+
+[![Gem Version][gem-badge]][gem]
+[![Inline docs][inchpages-badge]][inchpages]
+
+[Gem][gem] |
+[Source][github] |
+[Documentation][doc]
 
 Allows additional CSS / JS styling via a special wiki page
 
